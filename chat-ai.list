@@ -1,0 +1,6 @@
+# > chat ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# > bard
+DOMAIN-SUFFIX,bard.google.com
